@@ -1,13 +1,13 @@
 #---------- TOP BAR ----------#
 
 <ion-icon name="location-outline" aria-hidden="true"></ion-icon>
-Restaurant St, Delicious City, London 9578, UK
+Gral. Güemes 186 (Paseo Güemes) - Salta Capital
 
 <ion-icon name="time-outline" aria-hidden="true"></ion-icon>
-Daily : 8.00 am to 10.00 pm
+De : 8.00 am a 10.00 pm
 
 <ion-icon name="call-outline" aria-hidden="true"></ion-icon>
-+1 123 456 7890
++54 9 (387) 422-5166
 
 <ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
 booking@restaurant.com
