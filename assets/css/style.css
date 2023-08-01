@@ -270,7 +270,7 @@ body.nav-active { overflow: hidden; }
 
 /* egg  */
 .loader {
-  margin-bottom: 3rem;
+  margin-bottom: 5rem;
   position: relative;
   width: 120px;
   height: 14px;
@@ -336,7 +336,7 @@ background-position: right center , 17px center , 0px center;
   #TOPBAR
 \*-----------------------------------*/
 
-
+.topbar { display: none; }
 
 
 
