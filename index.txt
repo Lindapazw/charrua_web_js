@@ -1,9 +1,3 @@
-Grilli - Amazing & Delicious Food
-
-This is a Restaurant html template made by codewithsadee
-
-
-
 #---------- TOP BAR ----------#
 
 <ion-icon name="location-outline" aria-hidden="true"></ion-icon>
